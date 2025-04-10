@@ -1,0 +1,22 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  call.cpp
+  game.cpp
+D:\SFML Template\ConsoleApplication1\game.cpp(57,31): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\SFML Template\ConsoleApplication1\game.cpp(57,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\SFML Template\ConsoleApplication1\game.cpp(62,31): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\SFML Template\ConsoleApplication1\game.cpp(62,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\SFML Template\ConsoleApplication1\game.cpp(68,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\SFML Template\ConsoleApplication1\game.cpp(68,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\SFML Template\ConsoleApplication1\game.cpp(87,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SFML Template\ConsoleApplication1\game.cpp(121,33): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\SFML Template\ConsoleApplication1\game.cpp(121,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\SFML Template\ConsoleApplication1\game.cpp(125,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\SFML Template\ConsoleApplication1\game.cpp(125,18): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\SFML Template\ConsoleApplication1\game.cpp(173,42): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\SFML Template\ConsoleApplication1\game.cpp(173,37): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\SFML Template\ConsoleApplication1\game.cpp(230,52): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\SFML Template\ConsoleApplication1\game.cpp(230,47): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\SFML Template\ConsoleApplication1\game.cpp(370,56): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\SFML Template\ConsoleApplication1\game.cpp(370,51): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  ConsoleApplication1.vcxproj -> D:\SFML Template\x64\Debug\SFML Template.exe
